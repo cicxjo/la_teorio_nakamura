@@ -1,0 +1,45 @@
+<b>Filipo</b> <small>(Filip·o)</small>	<p>Philippe</p>
+<b>afiŝo</b> <small>(afiŝ·o)</small>	<p>placard (affiche), affiche</p>
+<b>aperi</b> <small>(aper·i)</small>	<p>paraître, paraître (pour un imprimé), surgir</p>
+<b>bela</b> <small>(bel·a)</small>	<p>beau</p>
+<b>breto</b> <small>(bret·o)</small>	<p>rayon, planche, rayon de rangement, étagère</p>
+<b>bruo</b> <small>(bru·o ← bru·i)</small>	<p>bruit</p>
+<b>du</b> <small>(du)</small>	<p>deux</p>
+<b>en</b> <small>(en)</small>	<p>dans, en</p>
+<b>esti</b> <small>(est·i)</small>	<p>être</p>
+<b>gitaro</b> <small>(gitar·o)</small>	<p>guitare</p>
+<b>granda</b> <small>(grand·a)</small>	<p>grand, grande</p>
+<b>jaro</b> <small>(jar·o)</small>	<p>année, an</p>
+<b>kaj</b> <small>(kaj)</small>	<p>et puis, et</p>
+<b>kio</b> <small>(kio)</small>	<p>que, quoi</p>
+<b>komputilo</b> <small>(komput·il·o ← komput·i)</small>	<p>ordinateur, compteur</p>
+<b>koncerto</b> <small>(koncert·o)</small>	<p>concert</p>
+<b>kuŝi</b> <small>(kuŝ·i)</small>	<p>être couché</p>
+<b>la</b> <small>(la)</small>	<p>le, la, les, l’</p>
+<b>libro</b> <small>(libr·o)</small>	<p>livre</p>
+<b>lito</b> <small>(lit·o)</small>	<p>lit</p>
+<b>loĝejo</b> <small>(loĝ·ej·o ← loĝ·i)</small>	<p>gîte, logis, demeure, domicile, habitation</p>
+<b>lumo</b> <small>(lum·o)</small>	<p>lumière</p>
+<b>malgranda</b> <small>(mal·grand·a ← grand·a)</small>	<p>petit</p>
+<b>mil</b> <small>(mil)</small>	<p>mille</p>
+<b>moderna</b> <small>(modern·a)</small>	<p>moderne</p>
+<b>muro</b> <small>(mur·o)</small>	<p>mur</p>
+<b>naŭcent</b> <small>(naŭ·cent ← cent)</small>	<p>neuf cents</p>
+<b>ne</b> <small>(ne)</small>	<p>non, ne, pas, ne … pas</p>
+<b>okazi</b> <small>(okaz·i)</small>	<p>intervenir, avoir lieu, intervenir (avoir lieu)</p>
+<b>okdek</b> <small>(ok·dek ← ok)</small>	<p>quatre-vingts</p>
+<b>pri</b> <small>(pri)</small>	<p>sur, à propos de, au sujet de</p>
+<b>pura</b> <small>(pur·a)</small>	<p>propre, pur</p>
+<b>sed</b> <small>(sed)</small>	<p>mais</p>
+<b>seĝo</b> <small>(seĝ·o)</small>	<p>chaise, siège</p>
+<b>sidi</b> <small>(sid·i)</small>	<p>siéger, siéger (société), être assis</p>
+<b>stranga</b> <small>(strang·a)</small>	<p>drôle, singulier (bizarre), bizarre, étrange</p>
+<b>studenta</b> <small>(student·a ← student·o)</small>	<p>étudiant</p>
+<b>sur</b> <small>(sur)</small>	<p>sur, dessus, à</p>
+<b>tablo</b> <small>(tabl·o)</small>	<p>table</p>
+<b>tio</b> <small>(tio)</small>	<p>c', ça, cela</p>
+<b>tre</b> <small>(tre)</small>	<p>bien, fort, tout, très</p>
+<b>vesto</b> <small>(vest·o ← vest·i)</small>	<p>vêtement; costume, robe, habit</p>
+<b>ĉambro</b> <small>(ĉambr·o)</small>	<p>local (pièce), salle, chambre, pièce</p>
+<b>ĝi</b> <small>(ĝi)</small>	<p>il, elle, ça</p>
+<b>ŝranko</b> <small>(ŝrank·o)</small>	<p>armoire</p>
