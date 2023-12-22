@@ -1,0 +1,3 @@
+[submodule "lernuvortoj"]
+	path = lernuvortoj
+	url = https://github.com/cicxjo/lernuvortoj.git
